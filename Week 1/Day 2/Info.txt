@@ -1,4 +1,0 @@
-287. Find the Duplicate Number
-// Storing Frequency and Checking for Duplicates
-Link:
-https://leetcode.com/problems/find-the-duplicate-number/
