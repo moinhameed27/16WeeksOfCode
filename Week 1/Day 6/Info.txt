@@ -1,4 +1,0 @@
-41. First Missing positive
-// Storing the frequency of elements [1,n] and checking for first missing positive
-Link:
-https://leetcode.com/problems/first-missing-positive/
