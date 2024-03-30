@@ -1,4 +1,0 @@
-2418. Sort the People
-// Sorting one array with respect to other
-Link:
-https://leetcode.com/problems/sort-the-people/
