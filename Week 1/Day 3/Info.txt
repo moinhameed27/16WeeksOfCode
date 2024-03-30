@@ -1,4 +1,0 @@
-1921. Eliminate Maximum Number of Monsters
-// Calculating time and Counting Eliminating Monsters
-Link:
-https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
