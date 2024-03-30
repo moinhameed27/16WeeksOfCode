@@ -1,0 +1,34 @@
+--> Day 1
+605. Can Place Flowers
+Link:
+https://leetcode.com/problems/can-place-flowers/
+
+--> Day 2
+287. Find the Duplicate Number
+Link:
+https://leetcode.com/problems/find-the-duplicate-number/
+
+--> Day 3
+1921. Eliminate Maximum Number of Monsters
+Link:
+https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
+
+--> Day 4
+1480. Running Sum of 1d Array
+Link:
+https://leetcode.com/problems/running-sum-of-1d-array/
+
+--> Day 5
+442. Find All Duplicates in an Array
+Link:
+https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+--> Day 6
+41. First Missing positive
+Link:
+https://leetcode.com/problems/first-missing-positive/
+
+--> Day 7
+2418. Sort the People
+Link:
+https://leetcode.com/problems/sort-the-people/
