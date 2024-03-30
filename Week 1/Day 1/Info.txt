@@ -1,0 +1,4 @@
+605. Can Place Flowers
+// Greedy
+Link:
+https://leetcode.com/problems/can-place-flowers/
