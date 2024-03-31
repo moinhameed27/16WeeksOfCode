@@ -17,3 +17,8 @@ https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least
 992. Subarrays with K Different Integers
 Link:
 https://leetcode.com/problems/subarrays-with-k-different-integers/
+
+--> Day 5
+2444. Count Subarrays With Fixed Bounds
+Link:
+https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
