@@ -27,3 +27,8 @@ https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
 58. Length of Last Word
 Link:
 https://leetcode.com/problems/length-of-last-word/
+
+--> Day 7
+205. Isomorphic Strings
+Link:
+https://leetcode.com/problems/isomorphic-strings/
