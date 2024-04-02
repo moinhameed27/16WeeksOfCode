@@ -1,0 +1,4 @@
+205. Isomorphic Strings
+// Mapping each other
+Link:
+https://leetcode.com/problems/isomorphic-strings/
