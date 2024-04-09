@@ -17,3 +17,8 @@ Day --> 4
 1700. Number of Students Unable to Eat Lunch
 Link:
 https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
+
+Day --> 5
+2073. Time Needed to Buy Tickets
+Link:
+https://leetcode.com/problems/time-needed-to-buy-tickets/
