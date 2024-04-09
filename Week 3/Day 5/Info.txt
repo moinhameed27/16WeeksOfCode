@@ -1,0 +1,4 @@
+2073. Time Needed to Buy Tickets
+// Brute Force
+Link:
+https://leetcode.com/problems/time-needed-to-buy-tickets/
