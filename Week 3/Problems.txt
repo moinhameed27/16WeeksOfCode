@@ -22,3 +22,8 @@ Day --> 5
 2073. Time Needed to Buy Tickets
 Link:
 https://leetcode.com/problems/time-needed-to-buy-tickets/
+
+Day --> 6
+950. Reveal Cards in Increasing Order
+Link:
+https://leetcode.com/problems/reveal-cards-in-increasing-order/
