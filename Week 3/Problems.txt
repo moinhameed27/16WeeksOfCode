@@ -27,3 +27,8 @@ Day --> 6
 950. Reveal Cards in Increasing Order
 Link:
 https://leetcode.com/problems/reveal-cards-in-increasing-order/
+
+Day --> 7
+402. Remove K Digits
+Link:
+https://leetcode.com/problems/remove-k-digits/
