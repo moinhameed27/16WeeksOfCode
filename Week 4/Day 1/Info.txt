@@ -1,0 +1,4 @@
+42. Trapping Rain Water
+// Two Pointers - LeftMax & RightMax
+Link:
+https://leetcode.com/problems/trapping-rain-water/
