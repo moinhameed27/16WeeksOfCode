@@ -1,3 +1,7 @@
 42. Trapping Rain Water
 Link:
 https://leetcode.com/problems/trapping-rain-water/
+
+1004. Max Consecutive Ones III
+Link:
+https://leetcode.com/problems/max-consecutive-ones-iii/
