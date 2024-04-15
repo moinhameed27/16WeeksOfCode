@@ -5,3 +5,7 @@ https://leetcode.com/problems/trapping-rain-water/
 1004. Max Consecutive Ones III
 Link:
 https://leetcode.com/problems/max-consecutive-ones-iii/
+
+1876. Substrings of Size Three with Distinct Characters
+Link:
+https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
