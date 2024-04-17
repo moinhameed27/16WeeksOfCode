@@ -9,3 +9,7 @@ https://leetcode.com/problems/max-consecutive-ones-iii/
 1876. Substrings of Size Three with Distinct Characters
 Link:
 https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
+
+1358. Number of Substrings Containing All Three Characters
+Link:
+https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
