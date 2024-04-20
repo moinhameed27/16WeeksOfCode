@@ -13,3 +13,15 @@ https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
 1358. Number of Substrings Containing All Three Characters
 Link:
 https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+
+3090. Maximum Length Substring With Two Occurrences
+Link:
+https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/
+
+2161. Partition Array According to Given Pivot
+Link:
+https://leetcode.com/problems/partition-array-according-to-given-pivot/
+
+1332. Remove Palindromic Subsequences
+Link:
+https://leetcode.com/problems/remove-palindromic-subsequences/
