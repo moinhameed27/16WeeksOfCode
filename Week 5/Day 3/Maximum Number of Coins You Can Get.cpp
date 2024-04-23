@@ -23,6 +23,7 @@ public:
         int ans = 0;
         sort(begin(piles), end(piles));
 
+        // Start with i = n / 3 and you'll only access coins picked by You if incremented 2 every time
         for (int i = n / 3; i < n; i += 2)
             ans += piles[i];
 
