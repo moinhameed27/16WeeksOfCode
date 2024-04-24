@@ -1,3 +1,4 @@
+// Way - I (Recursion + Memoization)
 /*
 Simple Recursion solution can run on small test cases but it isn't accepted on leetcode for bigger test cases.
 So we have to do memoization before submitting it.
@@ -30,5 +31,43 @@ public:
     int tribonacci(int n) {
         memset(t, -1, sizeof(t));
         return findTribonacci(n);
+    }
+};
+
+// Way - II (Bottom - Up Approach)
+class Solution {
+public:
+    int tribonacci(int n) {
+        int t[38];
+        t[0] = 0;
+        t[1] = 1;
+        t[2] = 1;
+        
+        for(int i = 3; i <=n; i++)
+            t[i] = t[i - 1] + t[i - 2] + t[i - 3];
+        
+        return t[n];
+    }
+};
+
+// Way - III (Constant Space)
+class Solution {
+public:
+    int tribonacci(int n) {
+        if(n == 0)
+            return 0;
+        if(n == 1 || n == 2)
+            return 1;
+        
+        int a = 0, b = 1, c = 1;
+        int d;
+        for(int i = 3; i <=n; i++)
+        {
+            d = a + b + c;
+            a = b;
+            b = c;
+            c = d;
+        }
+        return d;
     }
 };
