@@ -2,7 +2,7 @@
 Link:
 https://leetcode.com/problems/sort-array-by-parity-ii/
 
-557. Reverse Words in a String III 
+557. Reverse Words in a String III
 Link:
 https://leetcode.com/problems/reverse-words-in-a-string-iii/
 
@@ -13,3 +13,7 @@ https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 1137. N-th Tribonacci Number
 Link:
 https://leetcode.com/problems/n-th-tribonacci-number/
+
+1323. Maximum 69 Number
+Link:
+https://leetcode.com/problems/maximum-69-number/
