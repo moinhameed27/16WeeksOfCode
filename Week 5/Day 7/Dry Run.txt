@@ -1,0 +1,39 @@
+m = Size of rowSum
+n = Size of colSum
+ans[m][n] --> 2D Vector of size m x n
+
+    for (int i = 0; i < m; i++)
+    {
+        for (int j = 0; j < n; j++)
+        {
+            1. ans[i][j] = min(rowSum[i], colSum[j]);
+            2. rowSum[i] -= ans[i][j];
+            3. colSum[j] -= ans[i][j];
+        }
+    }
+
+rowSum = [3,8], colSum = [4,7];
+m = 2, n = 2;
+
+i = 0, j = 0 :
+1. ans[i][j] = min(3, 4); --> ans{ {3, -}, {-, -} };
+2. rowSum[0] -= 3;        --> rowSum {0, 8}
+3. colSum[0] -= 3;        --> colSum {1, 7}
+
+i = 0, j = 1 :
+1. ans[i][j] = min(0, 7); --> ans{ {3, 0}, {-, -} };
+2. rowSum[0] -= 0;        --> rowSum {0, 8}
+3. colSum[1] -= 0;        --> colSum {1, 7}
+
+i = 1, j = 0 :
+1. ans[i][j] = min(8, 1); --> ans{ {3, 0}, {1, -} };
+2. rowSum[1] -= 1;        --> rowSum {0, 7}
+3. colSum[0] -= 1;        --> colSum {0, 7}
+
+i = 1, j = 1 :
+1. ans[i][j] = min(7, 7); --> ans{ {3, 0}, {1, 7} };
+2. rowSum[1] -= 7;        --> rowSum {0, 0}
+3. colSum[1] -= 7;        --> colSum {0, 0}
+
+
+
