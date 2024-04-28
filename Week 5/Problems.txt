@@ -21,7 +21,7 @@ https://leetcode.com/problems/maximum-69-number/
 1974. Minimum Time to Type Word Using Special Typewriter
 Link:
 https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
-
+ 
 1605. Find Valid Matrix Given Row and Column Sums
 Link:
 https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
