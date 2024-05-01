@@ -9,3 +9,7 @@ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
 189. Rotate Array
 Link:
 https://leetcode.com/problems/rotate-array/
+
+2000. Reverse Prefix of Word
+Link:
+https://leetcode.com/problems/reverse-prefix-of-word/
