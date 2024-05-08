@@ -1,0 +1,4 @@
+506. Relative Ranks
+// Sorting + Hashing
+Link:
+https://leetcode.com/problems/relative-ranks/?envType=daily-question&envId=2024-05-08
