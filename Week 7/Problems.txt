@@ -9,3 +9,7 @@ https://leetcode.com/problems/max-consecutive-ones-iii/
 506. Relative Ranks
 Link:
 https://leetcode.com/problems/relative-ranks/?envType=daily-question&envId=2024-05-08
+
+3075. Maximize Happiness of Selected Children
+Link:
+https://leetcode.com/problems/maximize-happiness-of-selected-children/
