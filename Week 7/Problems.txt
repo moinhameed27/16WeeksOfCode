@@ -17,3 +17,7 @@ https://leetcode.com/problems/maximize-happiness-of-selected-children/
 2373. Largest Local Values in a Matrix
 Link:
 https://leetcode.com/problems/largest-local-values-in-a-matrix/
+
+861. Score After Flipping Matrix
+Link:
+https://leetcode.com/problems/score-after-flipping-matrix/
